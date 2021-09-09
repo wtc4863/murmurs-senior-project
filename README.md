@@ -17,6 +17,7 @@ Heart Rate Variability (HRV) - the variation in timing between heartbeats - is a
  
 Our team is constructing a multi-platform mobile application that will coordinate with a wearable Polar® H10 Heart Rate Sensor via Bluetooth® to monitor a subject’s heart rate data. Based upon the data collected, the application will determine the subject’s HRV, and generate an optimal breathing exercise for the subject to follow along with. The application will be designed with a research environment in mind, and will collect biometric data for further analysis.
 ### Time Tracking
+
 |Week|Daniel Bjanes|Matt Ryan|Wil Clancy|Cooper Farrar|Jake O’Donnell|Team|
 | ----------- | ----------- | ----------- |-----------|-----------|-----------|-----------|
 | Week 1      | 4           | 4           |4          |4          |4          |20         |
