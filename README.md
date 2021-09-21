@@ -26,13 +26,7 @@ Our team is constructing a multi-platform mobile application that will coordinat
 
 |Week|Daniel Bjånes|Matt Ryan|Wil Clancy|Cooper Farrar|Jake O’Donnell|Team|
 | ----------- | ----------- | ----------- |-----------|-----------|-----------|-----------|
-<<<<<<< HEAD
 | Week 1      | 4           | 4           | 4         | 4         | 4         | 20        |
 | Week 2      | 4.5         | 4.5         | 4.5       | 4.5       | 4.5       | 22.5      |
 | Week 3      | 4.5         | 4.5         | 4.5       | 4.5       | 4.5       | 22.5      |
 | Week X      | 0           | 0           | 0         | 0         | 0         | 0         |
-=======
-| Week 1      | 4           | 4           |4          |4          |4          |20         |
-| Week 2      | 4.5         | 4.5         |4.5        |4.5        |4.5        |22.5       |
-| Week 3      | 0           | 0           |4          |0          |0          |0          |
->>>>>>> bab50f958ba3c0cb4f84a77cd809fd041f757936
