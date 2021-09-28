@@ -29,4 +29,4 @@ Our team is constructing a multi-platform mobile application that will coordinat
 | Week 1      | 4           | 4           | 4         | 4         | 4         | 20        |
 | Week 2      | 4.5         | 4.5         | 4.5       | 4.5       | 4.5       | 22.5      |
 | Week 3      | 4.5         | 4.5         | 4.5       | 4.5       | 4.5       | 22.5      |
-| Week X      | 0           | 0           | 0         | 0         | 0         | 0         |
+| Week X      | 0           | 0           | 0         | 0         | 10        | 0         |
