@@ -24,10 +24,10 @@ Our team is constructing a multi-platform mobile application that will coordinat
 
 ### Time Tracking
 
-|Week|Daniel Bjånes|Matt Ryan|Wil Clancy|Cooper Farrar|Jake O’Donnell|Team|
-| ----------- | ----------- | ----------- |-----------|-----------|-----------|-----------|
-| Week 1      | 4           | 4           | 4         | 4         | 4         | 20        |
-| Week 2      | 4.5         | 4.5         | 4.5       | 4.5       | 4.5       | 22.5      |
-| Week 3      | 4.5         | 4.5         | 4.5       | 4.5       | 4.5       | 22.5      |
-| Week 4      | 0           | 0           | 0         | 0         | 10        | 10        |
-| Week X      | 0           | 0           | 0         | 0         | 0         | 0         |
+|Week         |Daniel Bjånes|Matt Ryan    |Wil Clancy |Cooper Farrar|Jake O’Donnell|Team       |
+|-------------|-------------|-------------|-----------|-------------|--------------|-----------|
+| Week 1      | 4           | 4           | 4         | 4           | 4            | 20        |
+| Week 2      | 4.5         | 4.5         | 4.5       | 4.5         | 4.5          | 22.5      |
+| Week 3      | 4.5         | 4.5         | 4.5       | 4.5         | 4.5          | 22.5      |
+| Week 4      | 0           | 4.5         | 0         | 0           | 10           | 14.5      |
+| Week 5      | 0           | 8.5         | 0         | 0           | 0            | 8.5       |
