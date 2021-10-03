@@ -20,7 +20,7 @@ Our team is constructing a multi-platform mobile application that will coordinat
 ### Project Tools and Techniques
 * Project ManagementTools: Trello, Discord/Email
 * Technical Development Tools: GitHub
-* Technical Implementation Tools: AWS, React Native, Nodejs, React
+* Technical Implementation Tools: AWS, Flutter, Nodejs, React, Github Pages, Polar SDK
 
 ### Time Tracking
 
@@ -29,5 +29,6 @@ Our team is constructing a multi-platform mobile application that will coordinat
 | Week 1      | 4           | 4           | 4         | 4           | 4            | 20        |
 | Week 2      | 4.5         | 4.5         | 4.5       | 4.5         | 4.5          | 22.5      |
 | Week 3      | 4.5         | 4.5         | 4.5       | 4.5         | 4.5          | 22.5      |
-| Week 4      | 0           | 4.5         | 0         | 0           | 10           | 14.5      |
-| Week 5      | 0           | 8.5         | 0         | 0           | 0            | 8.5       |
+| Week 4      | 5           | 4.5         | 5         | 4           | 8            | 26.5      |
+| Week 5      | 8.5         | 8.5         | 8.5       | 8.5         | 8.5          | 42.5      |
+| Week X      | 0           | 0           | 0         | 0           | 0            | 0         |
